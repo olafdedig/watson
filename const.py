@@ -1,0 +1,1 @@
+WATSONURL ="https://gateway.watsonplatform.net/language-translator/api"
